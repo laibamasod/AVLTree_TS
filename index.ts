@@ -160,7 +160,7 @@ class AVL {
 const tree = new AVL();
 //tree.insert(12);
 tree.insert(9);
-//tree.insert(14);
+tree.insert(14);
 tree.insert(8);
 //tree.insert(22);
 tree.insert(7);
